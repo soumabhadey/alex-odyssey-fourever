@@ -1,11 +1,10 @@
-# crossroad_of_choices
-# Alex's Career Path - Choice-Based Game
+# Alex's Odyssey - Choice-Based Game
 
 ![Game Screenshot](https://github.com/soumabhadey/alex-odyssey-fourever/blob/main/screenshots/Screenshot%20(88).png)
 ![Game Screenshot](https://github.com/soumabhadey/alex-odyssey-fourever/blob/main/screenshots/Screenshot%20(91).png)
 ![Game Screenshot](https://github.com/soumabhadey/alex-odyssey-fourever/blob/main/screenshots/Screenshot%20(93).png)
 
-Welcome to "Alex's Career Path," a choice-based game where you guide a young boy named Alex through the process of selecting his career path. This interactive story allows players to make decisions that will shape Alex's future.What will be his future? The outcome depends on the choices you make!
+Welcome to "Alex's Odyssey," a choice-based game where you guide a young boy named Alex through the process of selecting his career path. This interactive story allows players to make decisions that will shape Alex's future.What will be his future? The outcome depends on the choices you make!
 
 ## Table of Contents
 - [Demo](#demo)
