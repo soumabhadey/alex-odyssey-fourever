@@ -3,7 +3,7 @@
 
 ![Game Screenshot](https://github.com/soumabhadey/alex-odyssey-fourever/blob/main/screenshots/Screenshot%20(88).png)
 ![Game Screenshot](https://github.com/soumabhadey/alex-odyssey-fourever/blob/main/screenshots/Screenshot%20(91).png)
-![Game Screenshot](https://github.com/soumabhadey/alex-odyssey-fourever/blob/main/screenshots/Screenshot%20(88).png)
+![Game Screenshot](https://github.com/soumabhadey/alex-odyssey-fourever/blob/main/screenshots/Screenshot%20(93).png)
 
 Welcome to "Alex's Career Path," a choice-based game where you guide a young boy named Alex through the process of selecting his career path. This interactive story allows players to make decisions that will shape Alex's future. Will he become a scientist, an artist, a doctor, or something entirely different? The outcome depends on the choices you make!
 
