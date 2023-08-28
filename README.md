@@ -15,7 +15,7 @@ Welcome to "Alex's Career Path," a choice-based game where you guide a young boy
 - [License](#license)
 
 ## Demo
-You can play the game online [here](https://your-game-url.com).
+You can play the game online [here](https://soumabhadey.github.io/alex-odyssey-fourever/).
 
 ## Getting Started
 To run the game locally on your machine, follow these steps:
