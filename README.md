@@ -20,8 +20,8 @@ You can play the game online [here](https://your-game-url.com).
 ## Getting Started
 To run the game locally on your machine, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/alex-career-path.git`
-2. Navigate to the project directory: `cd alex-career-path`
+1. Clone this repository: `git clone https://github.com/soumabhadey/alex-odyssey-fourever`
+2. Navigate to the project directory: `cd alex-odyssey-fourever`
 3. Open the `index.html` file in your web browser.
 
 ## How to Play
@@ -29,18 +29,6 @@ To run the game locally on your machine, follow these steps:
 2. Read through the story and make choices by clicking on the options presented.
 3. Your decisions will influence Alex's journey and the outcome of his career.
 4. Play through multiple times to explore different career paths and endings.
-
-## Contributing
-Contributions are welcome! If you'd like to add new story branches, improve the user interface, fix bugs, or suggest enhancements, feel free to open an issue or submit a pull request.
-
-1. Fork the repository.
-2. Create a new branch for your feature: `git checkout -b feature-name`
-3. Make your changes and commit them: `git commit -m "Add new story branch"`
-4. Push your changes to your fork: `git push origin feature-name`
-5. Open a pull request to the `main` branch of this repository.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
