@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Helvetica, sans-serif;
     margin: 0;
     padding: 0;
     display: flex;
@@ -16,7 +16,7 @@ body {
     background-color: rgba(193, 192, 231, 0.98);
     max-width: 700px;
     width: 90%;
-    font-family: cursive;
+    font-family: Helvetica, sans-serif;
     font-size: 28px;
     margin: 20px;
     border-radius: 8px;
@@ -27,7 +27,7 @@ body {
 }
 
 #button1, #button2 {
-    font-family: cursive;
+    font-family: Helvetica, sans-serif;
     font-size: 28px;
     margin: 5px;
     padding: 12px 24px;
