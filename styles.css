@@ -9,86 +9,49 @@ body {
     background-image: url("images/start.png");
     background-repeat: no-repeat;
     background-position: center;
-
+    background-size: cover;
 }
 
-#game-container {
-    background-color:#33ccff;
-    margin-top: 500px;
-    min-width: 700px;
-    margin-right: 95px;
-    min-height:10px;
-    border-radius: 8px;
-    padding: 20px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-}
-
-#Start {
-    margin-top: 450px;
-    min-height: 30px;
-    min-width: 500px;
-}
-
-
-
-#button1, #button2 {
-    margin: 5px;
-    padding: 10px 20px;
-    font-size: 16px;
-    border: none;
-    border-radius: 4px;
-    background-color: #ff5c33
-    ;
-    color: #fff;
-    cursor: pointer;
-}
-
-
-#image-container {
-    text-align: center;
-    margin-top: 20px;
-}
-
-
-
-#image {
-    
-    max-width: 780px;
-    max-height: 300px;
-    border-radius: 8px;
-    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
-}
 .center-container {
-    
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh; /* Centers the content vertically */
-    margin-top: 420px;
-    
-  }
-  
+    width: 100%; /* Ensures full width */
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    box-sizing: border-box;
+}
 
 .large-button {
     border-radius: 20px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    font-family:cursive;
-    font-size: 60px;
-    min-width:420px;
-    min-height:180px;
-    max-width:420px;
-    max-height:180px;
-    background-color:antiquewhite;
-  }
-
-
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+    font-family: cursive;
+    font-size: 2rem; /* Responsive font size */
+    padding: 20px; /* Padding for a better look */
+    background-color: antiquewhite;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
 
 .large-button:hover {
-    background-color:dimgray /* New background color on hover */
-  }  
+    background-color: dimgray;
+    transform: scale(1.05);
+}
 
+@media (max-width: 768px) {
+    .large-button {
+        font-size: 1.5rem;
+        padding: 15px;
+    }
 
-.audio-container {
-    max-width: 1px;
-    max-height: 1px;
+    .center-container {
+        padding: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .large-button {
+        font-size: 1.2rem;
+        padding: 10px;
+    }
 }
