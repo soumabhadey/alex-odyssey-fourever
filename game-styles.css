@@ -17,7 +17,7 @@ body {
     max-width: 700px;
     width: 90%;
     font-family: cursive;
-    font-size: 40px;
+    font-size: 28px;
     margin: 20px;
     border-radius: 8px;
     padding: 20px;
@@ -28,9 +28,9 @@ body {
 
 #button1, #button2 {
     font-family: cursive;
+    font-size: 28px;
     margin: 5px;
-    padding: 10px 20px;
-    font-size: 40px;
+    padding: 12px 24px;
     border: none;
     border-radius: 4px;
     background-color: #ff5c33;
@@ -67,12 +67,12 @@ body {
 
 @media (max-width: 768px) {
     #game-container {
-        font-size: 20px;
+        font-size: 24px;
     }
 
     #button1, #button2 {
-        font-size: 20px;
-        padding: 8px 16px;
+        font-size: 24px;
+        padding: 10px 20px;
     }
 }
 
