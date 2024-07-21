@@ -17,7 +17,7 @@ body {
     max-width: 700px;
     width: 90%;
     font-family: cursive;
-    font-size: 25px;
+    font-size: 40px;
     margin: 20px;
     border-radius: 8px;
     padding: 20px;
@@ -28,10 +28,9 @@ body {
 
 #button1, #button2 {
     font-family: cursive;
-    font-size: 25px;
     margin: 5px;
     padding: 10px 20px;
-    font-size: 16px;
+    font-size: 40px;
     border: none;
     border-radius: 4px;
     background-color: #ff5c33;
