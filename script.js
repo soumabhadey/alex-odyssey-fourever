@@ -198,7 +198,7 @@ const scenes = [
     },
     {
         name: "credits",
-        text: "Credits: FourEver\nHTML/CSS: Sidhartha Chatterjee\nJavaScript: Soumabha Dey\nHTML/CSS: Souvik Mazumder\nDesigner: Soham Mallick",
+        text: "Credits: FourEver\nHTML/CSS: Souvik MazumDer, Sidhartha Chatterjee\nDesigns: Soham Mallick\nJavaScript: Soumabha Dey",
         image: "images/credits.jpg",
         choice1: "Play Again",
         button1: goHome
